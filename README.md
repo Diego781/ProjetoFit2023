@@ -5,4 +5,4 @@ te dá um treino já pronto para você iniciar seu projeto fitness na academia.N
 te traz os exercícios indicados para aquele treino.
 
 PS:Tive essa ideia e gostei muito do projeto,por isso,pretendo continuar melhorando,fazendo novos commits
-e trazendo novas versões.
+e trazendo versões melhoradas desse projeto.
